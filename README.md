@@ -14,10 +14,10 @@ Here's a chronological order of how my problems and learning went while completi
 
 6. ERROR- vscode was calling python instead of python3 so I alias python to python3
 
-7. ERROR - Externally-managed-environment -- command pip3 install install groq was showing this error as groq module was not in homebrew. So i deleted homebrew and reinstalled python from their website
+7. ERROR - Externally-managed-environment -- command pip3 install groq was showing this error as groq module was not in homebrew. So i deleted homebrew and reinstalled python from their website
 
 8. Installed groq but vscode couldn't find it so i reinstalled groq at a targeted location where vscode checks
 
 9. ERROR- No module named 'pydantic_core._pydantic_core' was showing in VScode. Tried a lot but couldn't find solution so switched to Pycharm
 
-10. Read File handling in python and how to wread and write in json files
+10. Read File handling in python and how to read and write in json files
